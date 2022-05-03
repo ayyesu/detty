@@ -1,0 +1,34 @@
+.Heading{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.Form{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+    background-color: rgb(13, 196, 196);
+    width:240px;
+    height: fit-content;
+    text-align: left;
+    font-weight:bolders;
+    font-size: small;
+    
+    
+}
+
+input[type = text] {
+     border-radius: 20px;
+     text-align:justify;
+     float:inline-start;
+}
+
+img {
+    position:absolute;
+    left:250px;
+    width:fit-content;
+    height:fit-content;
+}
+
+body{
+    background-color:wheat;
+}
